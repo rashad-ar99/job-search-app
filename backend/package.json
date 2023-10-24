@@ -5,11 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"dev": "nodemon index.js",
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"sequelize": "npx sequelize --config api/v1/config/config.js --migrations-path api/v1/migrations --models-path api/v1/models",
-		"migration:create": "npm run sequelize -- migration:create",
-		"db:migrate": "npm run sequelize -- db:migrate",
-		"db:migrate:undo": "npm run sequelize -- db:migrate:undo"
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Rashad Abdurahman",
 	"license": "ISC",
