@@ -1,0 +1,211 @@
+[
+	{ "type": "header", "version": "5.2.0", "comment": "Export to JSON plugin for PHPMyAdmin" },
+	{ "type": "database", "name": "test" },
+	{
+		"type": "table",
+		"name": "jobs",
+		"database": "test",
+		"data": [
+			{
+				"UUID": "31cabe4e-3a2a-4e9e-8c09-3c24e3b7a25d",
+				"Name": "Electrical Engineer",
+				"Salary": "92000",
+				"Description": "Electrical engineers design, develop, and test electrical systems and components. They work on a wide range of projects, from power generation to electronics.",
+				"CompanyName": "ElecTech Innovations",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "49d5784d-1fb0-42e0-8a83-207c42b37423",
+				"Name": "Accountant",
+				"Salary": "75000",
+				"Description": "Accountants manage financial records, prepare financial statements, and ensure compliance with tax regulations. They are vital in maintaining the financial health of organizations.",
+				"CompanyName": "Numbers Unlimited",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "4f5d96e1-d7d3-4c01-b7ff-3d0c1457a2aa",
+				"Name": "Marketing Manager",
+				"Salary": "80000",
+				"Description": "A marketing manager is in charge of creating and implementing marketing strategies to promote a company's products or services. They conduct market research, plan advertising campaigns, and oversee a team of marketing professionals.",
+				"CompanyName": "AdvertiseMe",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "654d82ab-4815-4c08-9681-00a1e27ea497",
+				"Name": "Architect",
+				"Salary": "105000",
+				"Description": "Architects design and plan the construction of buildings and structures. They combine creativity and technical expertise to create functional and aesthetically pleasing designs.",
+				"CompanyName": "DesignArch Studios",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "7b77d4b6-dc13-40b1-a27d-245ce6c1b6de",
+				"Name": "Product Manager",
+				"Salary": "110000",
+				"Description": "Product managers oversee the development and lifecycle of products. They define product features, set priorities, and work closely with cross-functional teams to bring products to market.",
+				"CompanyName": "Product Innovations",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "92c6b0e5-d21f-4bb7-8fb0-aece11972e6d",
+				"Name": "Financial Analyst",
+				"Salary": "85000",
+				"Description": "A financial analyst evaluates financial data, studies market trends, and provides recommendations for investment decisions. They play a crucial role in helping companies make informed financial choices.",
+				"CompanyName": "Invest Wise",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "94f2b73c-684b-4a6e-b282-120b1b740e8f",
+				"Name": "Sales Representative",
+				"Salary": "70000",
+				"Description": "Sales representatives promote and sell products or services to customers. They build relationships, identify opportunities, and meet sales targets.",
+				"CompanyName": "SalesPro Inc.",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "aafe97d6-2aeb-4be5-a7a2-01dbd0b0ca3a",
+				"Name": "Human Resources Manager",
+				"Salary": "90000",
+				"Description": "HR managers oversee human resources operations, including recruitment, employee relations, and benefits administration. They play a key role in fostering a positive workplace culture.",
+				"CompanyName": "PeopleFirst Inc.",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "af7e6489-1805-443f-a485-9c9b34e6796e",
+				"Name": "Data Scientist",
+				"Salary": "95000",
+				"Description": "A data scientist is responsible for collecting and analyzing large datasets to extract valuable insights. They use statistical analysis and machine learning techniques to solve complex problems and provide data-driven recommendations.",
+				"CompanyName": "Data Insights Inc.",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "b8ac9d1a-f44a-4c8f-832e-8c97217a08e7",
+				"Name": "Graphic Designer",
+				"Salary": "60000",
+				"Description": "A graphic designer creates visual content, including images, illustrations, and layouts, to communicate messages effectively. They work with software like Adobe Photoshop and Illustrator to produce eye-catching designs.",
+				"CompanyName": "Pixel Graphics",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "c28a8c9e-72a4-4e70-86c5-6b2cbb9d36bf",
+				"Name": "Mechanical Engineer",
+				"Salary": "95000",
+				"Description": "Mechanical engineers design and develop mechanical systems and products. They use principles of physics and materials science to create efficient and reliable mechanical solutions.",
+				"CompanyName": "Mechatronix Engineering",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "d8b1b076-1e0b-4c59-9e1e-2ab7b4e4b21c",
+				"Name": "Software Engineer",
+				"Salary": "100000",
+				"Description": "A software engineer is responsible for developing and maintaining software applications, analyzing user needs, and designing software solutions to meet those needs. They work in various industries, using programming languages like Java, Python, or C++, to create efficient and reliable software systems.",
+				"CompanyName": "TechCorp",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "dc694c94-4b41-4f0e-9d1e-e5b3aa931d87",
+				"Name": "Nurse",
+				"Salary": "70000",
+				"Description": "Nurses provide essential care to patients in healthcare settings. They monitor patient conditions, administer medications, and collaborate with doctors to ensure the well-being of patients.",
+				"CompanyName": "CareHealth Hospital",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "e1c68d20-9e1a-4d9a-b58e-9be764f7ccf7",
+				"Name": "Teacher",
+				"Salary": "55000",
+				"Description": "Teachers educate and inspire students at various educational levels. They create lesson plans, assess student progress, and contribute to the growth and development of young minds.",
+				"CompanyName": "BrightFuture School",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "f3ab2e87-4d17-48f6-8d4d-4d36305d308c",
+				"Name": "Web Developer",
+				"Salary": "80000",
+				"Description": "Web developers design and build websites and web applications. They work with programming languages like HTML, CSS, and JavaScript to create user-friendly online experiences.",
+				"CompanyName": "WebSolutions Ltd.",
+				"CreatedAt": "0000-00-00 00:00:00",
+				"UpdatedAt": "0000-00-00 00:00:00",
+				"DeletedAt": null
+			}
+		]
+	},
+	{
+		"type": "table",
+		"name": "userjobs",
+		"database": "test",
+		"data": [
+			{
+				"UUID": "137a1ac7-4272-4778-8c29-17e695280206",
+				"CreatedAt": "2023-10-23 19:46:36",
+				"UpdatedAt": "2023-10-23 19:46:36",
+				"DeletedAt": null,
+				"JobUUID": "31cabe4e-3a2a-4e9e-8c09-3c24e3b7a25d",
+				"UserUUID": "2d283edb-06ad-4eb3-9e61-4159f702dc08"
+			},
+			{
+				"UUID": "20d5b892-37fb-4480-b4b1-de41a0a63dad",
+				"CreatedAt": "2023-10-23 19:36:02",
+				"UpdatedAt": "2023-10-23 19:36:02",
+				"DeletedAt": null,
+				"JobUUID": "654d82ab-4815-4c08-9681-00a1e27ea497",
+				"UserUUID": "6eb9690a-d56d-4ff0-a066-b910b5516be8"
+			},
+			{ "UUID": "53470bf2-4844-47ee-93a8-c4d242e3d9f1", "CreatedAt": "2023-10-23 19:34:56", "UpdatedAt": "2023-10-23 19:34:56", "DeletedAt": null, "JobUUID": "49d5784d-1fb0-42e0-8a83-207c42b37423", "UserUUID": "6eb9690a-d56d-4ff0-a066-b910b5516be8" }
+		]
+	},
+	{
+		"type": "table",
+		"name": "users",
+		"database": "test",
+		"data": [
+			{
+				"UUID": "2d283edb-06ad-4eb3-9e61-4159f702dc08",
+				"Name": "Michael Scott",
+				"Email": "mscott@asd.com",
+				"Password": "$2b$10$Zyjnl1yA.ncmnzIdB56YgOs.87M0zgX.3/pI7kODTYn97xma3Gm9i",
+				"CreatedAt": "2023-10-23 19:42:09",
+				"UpdatedAt": "2023-10-23 19:42:09",
+				"DeletedAt": null
+			},
+			{
+				"UUID": "6eb9690a-d56d-4ff0-a066-b910b5516be8",
+				"Name": "Rashad Abdurahman",
+				"Email": "asd@asd.com",
+				"Password": "$2b$10$vV/NtJaSVxOrCv5Z48l79exEcbQZw7m7rm4oOPVDL/gzCYHGMkp.2",
+				"CreatedAt": "2023-10-23 15:15:59",
+				"UpdatedAt": "2023-10-23 15:15:59",
+				"DeletedAt": null
+			}
+		]
+	},
+	{ "type": "table", "name": "usersessions", "database": "test", "data": [] }
+]
